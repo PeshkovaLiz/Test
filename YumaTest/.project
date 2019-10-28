@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>YumaTest</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.ide.coldfusion.projectNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>YumaTest</name>
+			<type>2</type>
+			<location>C:/ColdFusionBuilder2018/ColdFusion/cfusion/wwwroot/YumaTest</location>
+		</link>
+	</linkedResources>
+</projectDescription>
